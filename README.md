@@ -21,7 +21,7 @@
  </p>
 
 <p align="left">
-   <strong> HTML | CSS | JavaScript | BootStrap | Python | TypeScript | ReactJS | Angular | MySQL | C# </strong>
+   <strong> HTML | CSS | JavaScript | BootStrap | NodeJS |Python | TypeScript | ReactJS | Angular | MySQL | C# </strong>
 </p>
 
 
