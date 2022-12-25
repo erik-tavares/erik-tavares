@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  Último ano do Ensino médio em andamento.
+  Ensino Médio completo.
 </p>
 
 <p align="left">
