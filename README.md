@@ -17,6 +17,10 @@
 </p>
 
 <p align="left">
+  Futuro Engenheiro de Software!
+</p>
+
+<p align="left">
   Sem Preferência de Linguagem de Programação até o momento.
  </p>
 
