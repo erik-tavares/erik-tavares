@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Cursando o Programa starter developer web full stack na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
+  Cursei o Programa starter developer web full stack na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
 </p>
 
 <p align="left">
