@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  Ensino Médio completo.
+  ADS
 </p>
 
 <p align="left">
