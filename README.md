@@ -13,10 +13,6 @@
 </p>
 
 <p align="left">
-  ADS
-</p>
-
-<p align="left">
   Futuro Engenheiro de Software!
 </p>
 
